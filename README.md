@@ -1,3 +1,5 @@
 # Git-lab-demo
 
 Hello from student B
+
+Student C says "Hello World"
