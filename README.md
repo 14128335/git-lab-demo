@@ -15,3 +15,5 @@ Stduent C adds another line to bug check
 >>>>>>> 19749a79f7143d5c83a80f0ee3835f46dd44539e
 
 Student A joins the battle!
+
+Student F is crip walking over
